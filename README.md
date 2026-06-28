@@ -19,7 +19,7 @@
 modern campus needs. Digitalize Campus Activities. Centralized Platform.]
 - 🌱 Currently learning **[CDAC in Mobile Computing]**
 - 💼 Open to **full-stack developer roles** — remote or [Pune]
-- 📫 Best way to reach me: **[sahilkudale2812@email.com]**
+- 📫 Best way to reach me: **[sahilkudale2812@gmail.com]**
 - ⚡ Fun fact: [I started with Electronics, but I found my passion in software.]
 
 ---
